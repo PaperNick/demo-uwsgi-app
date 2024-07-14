@@ -1,0 +1,9 @@
+*.pyc
+*.pyd
+*.pyo
+.cache/
+.vscode/
+.env
+venv/
+__pycache__/
+db.sqlite3

@@ -1,0 +1,13 @@
+*.pyc
+*.pyd
+*.pyo
+.cache/
+.vscode/
+.env
+venv/
+__pycache__/
+db.sqlite3
+Dockerfile*
+**/*.md
+.git
+.gitignore
